@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Huevo",
+      "unit": "Kg",
+      "price": 31,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Jamaica Sudan",
+      "unit": "Kg",
+      "price": 120,
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "name": "Tamarindo",
+      "unit": "Kg",
+      "price": 30,
+      "stock": 75
+    },
+    {
+      "id": 4,
+      "name": "Banana",
+      "unit": "Kg",
+      "price": 26,
+      "stock": 120
+    },
+    {
+      "id": 5,
+      "name": "Frutilla",
+      "unit": "Kg",
+      "price": 50,
+      "stock": 60
+    },
+    {
+      "id": 6,
+      "name": "Sandía",
+      "unit": "Kg",
+      "price": 40,
+      "stock": 30
+    },
+    {
+      "id": 7,
+      "name": "Banana",
+      "unit": "Kg",
+      "price": 26,
+      "stock": 120
+    }
+  ]
+  
